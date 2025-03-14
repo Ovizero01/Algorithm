@@ -20,19 +20,15 @@ git clone https://github.com/Ovizero01/Algorithm.git
 
 ## Algorithms
 The repository includes the following algorithms:
-- Sorting Algorithms
-  - Bubble Sort
-  - Insertion Sort
-  - Quick Sort
-  - Merge Sort
-- Searching Algorithms
-  - Binary Search
-  - Linear Search
 - Graph Algorithms
   - Depth-First Search (DFS)
   - Breadth-First Search (BFS)
+  - Dijkstra Algorithm
+  - Bellman-Ford Algorithm
+  - Floyd-Warshall Algorithm
 - Dynamic Programming
   - Fibonacci Sequence
+  - 0/1 Knapsack
   - Longest Common Subsequence
 
 Each algorithm is implemented in a separate file with detailed comments explaining each step.
