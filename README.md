@@ -7,7 +7,6 @@ Welcome to the Algorithm repository! This repository contains implementations an
 - [Getting Started](#getting-started)
 - [Algorithms](#algorithms)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 This repository is a collection of common algorithms implemented in C++. It is intended for educational purposes and for anyone who is interested in learning about algorithms.
