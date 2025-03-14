@@ -42,6 +42,3 @@ Contributions are welcome! If you would like to contribute to this repository, p
 5. Open a pull request to the main repository.
 
 Please ensure that your code follows the coding standards and includes appropriate tests.
-
-## License
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
