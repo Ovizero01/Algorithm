@@ -25,9 +25,10 @@ The repository includes the following algorithms:
   - Dijkstra Algorithm
   - Bellman-Ford Algorithm
   - Floyd-Warshall Algorithm
+  - Disjoint Set Union
 - Dynamic Programming
-  - Fibonacci Sequence
   - 0/1 Knapsack
+  - Subset Sum
   - Longest Common Subsequence
 
 Each algorithm is implemented in a separate file with detailed comments explaining each step.
